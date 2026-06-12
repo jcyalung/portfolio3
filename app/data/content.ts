@@ -48,16 +48,19 @@ export const EXPERIENCE: ExperienceItem[] = [
   {
     company: "Alcon",
     position: "Software Engineer Intern",
-    startDate: "Incoming",
-    summary: ["Incoming summer 2026 under the Digital Health Software team."],
+    startDate: "May 2026",
+    endDate: "Present",
+    summary: [
+      "I am a software engineer on the Digital Health Software team. I am building scalable Java and Spring Boot backend infrastructure to handle high-traffic loads for 300k customers nationwide. I am also deploying services to AWS EC2 and configuring Strapi on and S3 storage layer, maintaining 99% uptime and reducing frontend media loads by 48%.",
+      "I am also working on the Clinical Supply team, analyzing systems end-to-end and modeling risk and failure to ensure high availability and system resilience under load."],
   },
   {
     company: "FUSION at UCI",
     position: "Project Manager",
     startDate: "July 2025",
-    endDate: "Present",
+    endDate: "January 2026",
     summary: [
-      "I am the project manager for FUSION at UCI, working with a team of 4 developers and 1 designer to create a digital study tracking application for an organization of 300 members. As the project manager, I lead sprint planning, managing 40+ GitHub tasks with 100% on-time completion.",
+      "I was the project manager for FUSION at UCI, working with a team of 4 developers and 1 designer to create a digital study tracking application for an organization of 300 members. As the project manager, I led sprint planning, managing 40+ GitHub tasks with 100% on-time completion.",
       "I also trained developers and designers on frameworks such as Next.JS, GitHub, and Figma through documentation and videos, reducing onboarding time by 50% and boosting productivity and collaboration.",
     ],
   },
