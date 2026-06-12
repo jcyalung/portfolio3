@@ -109,7 +109,7 @@ export const SKILLS: SkillsContent = {
 
 export const ABOUT: AboutContent = {
   description: 
-`I'm an undergraduate computer science student at the University of California, Irvine. I am passionate about build scalable backend infrastructure and fault-tolerant systems.
+`I'm an undergraduate computer science student at the University of California, Irvine. I am passionate about building scalable backend infrastructure and fault-tolerant systems.
 This summer I am at Alcon in Fort Worth, Texas, joining the Digital Health Software team. 
 Besides software and systems, I enjoy volleyball, cooking, and visiting cool museums.`,
   image: "/josh-big.png",
